@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anagram Maker</string>
+    <string name="clipboard_event">Copied to Clipboard</string>
+    <string name="editTextHint">Search Text</string>
+</resources>
