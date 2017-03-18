@@ -33,7 +33,6 @@
             android:id="@+id/second_toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            <!--Only difference between landscape and portrait layout this line of code -->
             app:layout_scrollFlags="scroll|enterAlways">
 
             <android.support.v7.widget.AppCompatEditText
